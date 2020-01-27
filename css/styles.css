@@ -1,0 +1,51 @@
+.container {
+  text-align: center;
+}
+
+.all {
+  text-align: center;
+  width: 75%;
+  display: inline-block;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: red;
+}
+
+.one {
+  width: 200px;
+  height: 450px;
+  margin-right: 50px;
+  display: inline-block;
+  background-color: green;
+}
+
+.two {
+  width: 200px;
+  height: 450px;
+  margin-right: 50px;
+  display: inline-block;
+  background-color: blue;
+}
+
+.three {
+  width: 200px;
+  height: 450px;
+  display: inline-block;
+  background-color: orange;
+}
+
+.four {
+  width: 75%;
+  height: 300px;
+  margin-top: 50px;
+  display: inline-block;
+  background-color: green;
+}
+
+.five {
+  width: 75%;
+  height: 475px;
+  margin-top: 30px;
+  display: inline-block;
+  background-color: purple;
+}
